@@ -1,0 +1,88 @@
+{
+  "room": [
+    {
+      "id": "1",
+      "name": "phong1",
+      "description": "đẹp",
+      "investment_price": "10000000",
+      "fixed_price": "20000000"
+    },
+    {
+      "id": "2",
+      "name": "phong2",
+      "description": "thoáng",
+      "investment_price": "10000000",
+      "fixed_price": "20000000"
+    },
+    {
+      "id": "3",
+      "name": "phong3",
+      "description": "mát",
+      "investment_price": "10000000",
+      "fixed_price": "20000000"
+    },
+    {
+      "id": "4",
+      "name": "phong4",
+      "description": "đẹp",
+      "investment_price": "10000000",
+      "fixed_price": "20000000"
+    },
+    {
+      "id": "5",
+      "name": "phong5",
+      "description": "đẹp",
+      "investment_price": "10000000",
+      "fixed_price": "20000000"
+    },
+    {
+      "id": "6",
+      "name": "phong6",
+      "description": "đẹp",
+      "investment_price": "10000000",
+      "fixed_price": "20000000"
+    },
+    {
+      "id": "7",
+      "name": "phong7",
+      "description": "đẹp",
+      "investment_price": "10000000",
+      "fixed_price": "20000000"
+    },
+    {
+      "id": "8",
+      "name": "phong8",
+      "description": "đẹp",
+      "investment_price": "10000000",
+      "fixed_price": "20000000"
+    },
+    {
+      "id": "9",
+      "name": "phong9",
+      "description": "đẹp",
+      "investment_price": "10000000",
+      "fixed_price": "20000000"
+    },
+    {
+      "id": "10",
+      "name": "phong10",
+      "description": "đẹp",
+      "investment_price": "10000000",
+      "fixed_price": "20000000"
+    },
+    {
+      "id": "11",
+      "name": "phong11",
+      "description": "đẹp",
+      "investment_price": "10000000",
+      "fixed_price": "20000000"
+    },
+    {
+      "id": "12",
+      "name": "phong12",
+      "description": "đẹp",
+      "investment_price": "10000000",
+      "fixed_price": "20000000"
+    }
+  ]
+}

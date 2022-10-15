@@ -1,0 +1,224 @@
+{
+  "products": [
+    {
+      "categoryId": "ff3fa95c-8391-4147-a7e6-cfc6a9bb0433",
+      "id": "118d8fc7-4139-43b2-b6fd-7135bee9a0e0",
+      "name": "Incredible Soft Salad",
+      "color": "orchid",
+      "price": 893,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1651802735113,
+      "updatedAt": 1651802735113,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "ff3fa95c-8391-4147-a7e6-cfc6a9bb0433",
+      "id": "284f32d3-9db1-4629-b62b-8b5c0dd8a4e9",
+      "name": "Licensed Fresh Bacon",
+      "color": "green",
+      "price": 24,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1651802735113,
+      "updatedAt": 1651802735113,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "ff3fa95c-8391-4147-a7e6-cfc6a9bb0433",
+      "id": "c6b5d5a1-9c7c-401d-a6aa-e3f7eae63d92",
+      "name": "Gorgeous Fresh Bacon",
+      "color": "lime",
+      "price": 812,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1651802735114,
+      "updatedAt": 1651802735114,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "ff3fa95c-8391-4147-a7e6-cfc6a9bb0433",
+      "id": "4f9f5ec2-4b70-4eb0-867a-5028d96bd9ee",
+      "name": "Practical Soft Pizza",
+      "color": "tan",
+      "price": 420,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1651802735114,
+      "updatedAt": 1651802735114,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "ff3fa95c-8391-4147-a7e6-cfc6a9bb0433",
+      "id": "7ec7f2fb-5e51-4b16-8eba-0b1a77955be5",
+      "name": "Rustic Soft Sausages",
+      "color": "purple",
+      "price": 799,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1651802735115,
+      "updatedAt": 1651802735115,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "1643654a-8ff5-436d-bb51-39d238fd50ae",
+      "id": "a23bacd2-80b4-41f9-8c8b-37067e043a17",
+      "name": "Incredible Plastic Mouse",
+      "color": "grey",
+      "price": 35,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1651802735115,
+      "updatedAt": 1651802735115,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "1643654a-8ff5-436d-bb51-39d238fd50ae",
+      "id": "66c82ff1-ecb9-4a02-91d1-f512fbd97170",
+      "name": "Handcrafted Metal Mouse",
+      "color": "white",
+      "price": 267,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1651802735115,
+      "updatedAt": 1651802735115,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "1643654a-8ff5-436d-bb51-39d238fd50ae",
+      "id": "1a9b5ac1-2754-4292-ad60-0b2ddf7b6e0a",
+      "name": "Handcrafted Metal Car",
+      "color": "white",
+      "price": 755,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1651802735116,
+      "updatedAt": 1651802735116,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "1643654a-8ff5-436d-bb51-39d238fd50ae",
+      "id": "67cca0f3-b6fc-4a93-aea3-fb2e6e5865f2",
+      "name": "Incredible Fresh Sausages",
+      "color": "indigo",
+      "price": 740,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1651802735116,
+      "updatedAt": 1651802735116,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "1643654a-8ff5-436d-bb51-39d238fd50ae",
+      "id": "7333cc58-4e0b-49fb-a8f3-d94d9d979d30",
+      "name": "Licensed Metal Towels",
+      "color": "red",
+      "price": 236,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1651802735116,
+      "updatedAt": 1651802735116,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6a147c4d-6992-4d78-a80e-b51f0de004eb",
+      "id": "ce0aabb0-122b-4d25-b558-de4df7ae20fe",
+      "name": "Incredible Plastic Bike",
+      "color": "purple",
+      "price": 749,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1651802735117,
+      "updatedAt": 1651802735117,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6a147c4d-6992-4d78-a80e-b51f0de004eb",
+      "id": "ff833da5-b093-418b-87fa-4e0193570abc",
+      "name": "Ergonomic Granite Mouse",
+      "color": "red",
+      "price": 164,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1651802735117,
+      "updatedAt": 1651802735117,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6a147c4d-6992-4d78-a80e-b51f0de004eb",
+      "id": "f74a86cc-dfe0-4dde-bda6-d75c21688479",
+      "name": "Handmade Metal Keyboard",
+      "color": "grey",
+      "price": 775,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1651802735117,
+      "updatedAt": 1651802735117,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6a147c4d-6992-4d78-a80e-b51f0de004eb",
+      "id": "0345d205-cf64-4825-8ce0-17c6519f0556",
+      "name": "Handcrafted Cotton Pizza",
+      "color": "orchid",
+      "price": 971,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1651802735118,
+      "updatedAt": 1651802735118,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6a147c4d-6992-4d78-a80e-b51f0de004eb",
+      "id": "c25efd65-0f2e-4346-93f3-44405b1dfa40",
+      "name": "Licensed Rubber Fish",
+      "color": "purple",
+      "price": 617,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1651802735118,
+      "updatedAt": 1651802735118,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "4af9e8a1-54b0-49ce-b082-80bcfc7a4e77",
+      "id": "3680c056-6876-4ecb-9766-11abb43055d8",
+      "name": "Licensed Frozen Computer",
+      "color": "maroon",
+      "price": 638,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1651802735119,
+      "updatedAt": 1651802735119,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "4af9e8a1-54b0-49ce-b082-80bcfc7a4e77",
+      "id": "9fac0a48-1144-4354-8b7a-fee958246dd4",
+      "name": "Tasty Rubber Towels",
+      "color": "orchid",
+      "price": 557,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1651802735119,
+      "updatedAt": 1651802735119,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "4af9e8a1-54b0-49ce-b082-80bcfc7a4e77",
+      "id": "286f9dd2-c5cf-4d9e-ba85-ea2fd978e012",
+      "name": "Sleek Rubber Fish",
+      "color": "violet",
+      "price": 27,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1651802735120,
+      "updatedAt": 1651802735120,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "4af9e8a1-54b0-49ce-b082-80bcfc7a4e77",
+      "id": "14f0cc87-08ee-45a8-9300-f9aee4d0e12e",
+      "name": "Refined Frozen Chicken",
+      "color": "lime",
+      "price": 639,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1651802735120,
+      "updatedAt": 1651802735120,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "4af9e8a1-54b0-49ce-b082-80bcfc7a4e77",
+      "id": "d4a6a83c-8424-43c7-86fb-8a17ec7edad1",
+      "name": "Handcrafted Granite Keyboard",
+      "color": "gold",
+      "price": 986,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1651802735121,
+      "updatedAt": 1651802735121,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    }
+  ]
+}

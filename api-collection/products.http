@@ -1,15 +1,18 @@
 @baseUrl=http://localhost:3000/api
 @resourceName=products
+@token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImJydW5vQGVtYWlsLmNvbSIsInBhc3N3b3JkIjoiYnJ1bm8iLCJpYXQiOjE2NTE4Mzc3MjksImV4cCI6MTY1MTg0MTMyOX0.cI66qAN6oGO5vQBeufyRLvldaEE9aiHzvVJXIuN0T3E
 
 # Products
 
 # @name getAll
 GET {{baseUrl}}/{{resourceName}}
+Authorization: Bearer {{token}}
 
 ###
 
 # @name filterProducts
 GET {{baseUrl}}/{{resourceName}}?price_gte=900
+Authorization: Bearer {{token}}
 
 ###
 
@@ -21,6 +24,8 @@ GET {{baseUrl}}/{{resourceName}}?name_like=tasty
 
 # @name pagination
 GET {{baseUrl}}/{{resourceName}}?_page=1&_limit=20
+Authorization: Bearer {{token}}
+
 
 ###
 
@@ -33,6 +38,8 @@ GET {{baseUrl}}/{{resourceName}}?_sort=price&_order=desc
 # @name addNew
 POST {{baseUrl}}/{{resourceName}}
 Content-Type: application/json
+Authorization: Bearer {{token}}
+
 
 {
   "categoryId": "28759f7e-3509-4064-920a-406dd426033a",
@@ -59,3 +66,7 @@ Content-Type: application/json
 
 # @name remove
 DELETE {{baseUrl}}/{{resourceName}}/2
+
+
+
+
